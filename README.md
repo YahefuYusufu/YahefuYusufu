@@ -8,7 +8,7 @@
 
 - 🎇 I’m currently learning **all the React(redux,reducer,next.js)to build a Clint side Web applications.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/prg-YY/YosubYacub](https://github.com/prg-YY/YosubYacub)
+- 👨‍💻 All of my projects are available at [https://github.com/prg-YY]
 
 - 💬 Ask me about **react**
 
