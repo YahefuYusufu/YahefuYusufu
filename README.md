@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/yusubyacob" target="blank"><img src="https://img.shields.io/twitter/follow/yusubyacob?logo=twitter&style=for-the-badge" alt="yusubyacob" /></a> </p>
 
-- 🌱 I’m currently learning **all the frameworks or All the things related to frontend developer**
+- 🎇 I’m currently learning **all the React(redux,reducer,next.js)to build a Clint side Web applications.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/prg-YY/YosubYacub](https://github.com/prg-YY/YosubYacub)
 
