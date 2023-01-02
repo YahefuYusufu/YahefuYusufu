@@ -2,7 +2,7 @@
  
  ![waving](https://capsule-render.vercel.app/api?type=waving&height=90&color=gradient)
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mouse+Memoirs&size=65&pause=500&color=06CD9C&vCenter=true&width=600&height=70&lines=Yusuf+Yakup;Paguzat;a+FrontEnd+Developer;UI%+Test Automation)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mouse+Memoirs&size=65&pause=500&color=06CD9C&vCenter=true&width=600&height=70&lines=Yusuf+Yakup;a+FrontEnd+Developer)](https://git.io/typing-svg)
  
  </div>
 
@@ -17,7 +17,7 @@ Currently I'm a Freelancer in the field ,
 <br>
 <h2>Social Networks</h2>
 
-[![Twitter][1.2]][1] [![LinkedIn][2.2]][2] [![Instagram][3.2]][3] [![Telegram][4.2]][4]
+[![Twitter][1.2]][1] [![LinkedIn][2.2]][2] [![Instagram][3.2]][3]
 
 [1.2]: https://s4.uupload.ir/files/twitter_prkb.png
 [2.2]: https://s4.uupload.ir/files/linkedin_amwn.png
@@ -37,12 +37,12 @@ Currently I'm a Freelancer in the field ,
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,vscode,react,html,css,js,ts,bootstrap,androidstudio,arduino,bash,linux" />
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,react,html,css,js,ts,bootstrap,androidstudio,arduino,bash,linux" />
   </a>
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,django,mysql,sqlite,c,cpp,java,github,wordpress,ae,ps,pr" />
+    <img src="https://skillicons.dev/icons?i=mysql,java,selenium,bitbucket" />
   </a>
 </p>
 
