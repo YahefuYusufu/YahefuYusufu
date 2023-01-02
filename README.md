@@ -37,7 +37,7 @@ Currently I'm a Freelancer in the field ,
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,react,html,css,js,ts,bootstrap,androidstudio,arduino,bash,linux" />
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,html,css,js,react,nextjs,ts,vite,tailwind,bootstrap," />
   </a>
 </p>
 <p align="center">
