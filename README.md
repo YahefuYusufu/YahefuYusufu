@@ -1,3 +1,5 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=YusupYakup&label=Visitors&color=0e75b6&style=flat" alt="YusupYakup" /></p>
+
 <div align="center" >
  
  ![waving](https://capsule-render.vercel.app/api?type=waving&height=90&color=gradient)
