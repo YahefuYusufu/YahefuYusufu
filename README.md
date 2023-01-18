@@ -42,14 +42,10 @@ Currently I'm a Freelancer in the field ,
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,html,css,js,react,nextjs,ts,vite,tailwind,bootstrap," />
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,html,css,js,react,nextjs,ts,vite,tailwind,....." />
   </a>
 </p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,java,selenium,bitbucket" />
-  </a>
-</p>
+
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer"/>
 
