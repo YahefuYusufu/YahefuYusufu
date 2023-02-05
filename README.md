@@ -14,8 +14,7 @@
 
  
 
-### :man_technologist: I'm Yusuf Yakup and I'm a passionate front end developer & Q&A(automation testing in web  application) .
-Currently I'm a Freelancer in the field ,
+### :man_technologist: I'm Yusuf Yakup and I'm a passionate developer.
 
 <img align='right' height='160' style="margin-right:20px" src='assets/zeig-infotech-seo-gif.gif' alt='Social Networks'>
 
