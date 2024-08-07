@@ -2,7 +2,7 @@
   <img src="https://img.shields.io/badge/Profile%20views-_-0e75b6?style=flat" alt="Profile views" />
 </p>
 
-![](http://profile-counter.glitch.me/YusupYakup/count.svg)
+![](http://profile-counter.glitch.me/YusufuYahefu/count.svg)
 
 <div align="center"> 
 
