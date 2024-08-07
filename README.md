@@ -1,5 +1,4 @@
-## Thank you for the visit_Please give a Star if you like.
-
+ 
 ![](http://profile-counter.glitch.me/YusupYakup/count.svg)
 
 
