@@ -43,7 +43,7 @@
         </a>
       </td>
       <td align="center">
-        <h3>QA Testing(Automation/Manual) & other</h3>
+        <h3>QA(Automation/Manual) & other</h3>
         <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=selenium,yarn,npm " />
         </a>
