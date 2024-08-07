@@ -12,7 +12,7 @@
 </div>
 <div align="center">
   <img align='center' height='160' style="margin-right:20px" src='assets/zeig-infotech-seo-gif.gif' alt='Social Networks'>
-  <img align='center' height='160' style="margin-left:20px" src='assets/programmer.gif' alt='Skills'>
+  
 </div>
 <div align="center">
   <table>
