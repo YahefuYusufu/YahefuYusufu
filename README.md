@@ -8,7 +8,7 @@
 
   ![waving](https://capsule-render.vercel.app/api?type=waving&height=90&color=gradient)
  
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mouse+Memoirs&size=65&pause=500&color=06CD9C&vCenter=true&width=600&height=70&lines=prg;I'm+a+Mobile+and+FrontEnd+Developer)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mouse+Memoirs&size=65&pause=500&color=06CD9C&vCenter=true&width=600&height=70&lines=prg;I'm+a+Mobile+and+FrontEnd+Dev)](https://git.io/typing-svg)
 </div>
 <div align="center">
   <img align='center' height='160' style="margin-right:20px" src='assets/zeig-infotech-seo-gif.gif' alt='Social Networks'>
