@@ -5,15 +5,15 @@
 ![](http://profile-counter.glitch.me/YusupYakup/count.svg)
 
 <div align="center"> 
+  
+![waving](https://capsule-render.vercel.app/api?type=waving&height=90&color=gradient)
 
-  ![waving](https://capsule-render.vercel.app/api?type=waving&height=90&color=gradient)
- 
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mouse+Memoirs&size=65&pause=500&color=06CD9C&vCenter=true&width=600&height=70&lines=prg;I'm+a+Software Developer +Focus on+Full Stack Mobile Application)](https://git.io/typing-svg)
-</div>
-<div align="center">
-  <img align='center' height='160' style="margin-right:20px" src='assets/zeig-infotech-seo-gif.gif' alt='Social Networks'>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mouse+Memoirs&size=65&pause=1050&duration=500&color=06CD9C&vCenter=true&width=800&height=70&lines=Hi!;I'm+a+Software+Developer;Focus+on+Full+Stack+Mobile+Application)](https://git.io/typing-svg)
+
+<img align='center' height='160' style="margin-right:20px" src='assets/zeig-infotech-seo-gif.gif' alt='Social Networks'>
   
 </div>
+
 <div align="center">
   <table>
     <tr>
@@ -26,13 +26,15 @@
       <td align="center">
         <h3>Mobile Development</h3>
         <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=react,swift,kotlin" />
+          <img src="https://skillicons.dev/icons?i=react,swift,kotlin" />
         </a>
       </td>
     </tr>
   </table>
 </div>
+
 <br>
+
 <div align="center">
   <table>
     <tr>
@@ -45,12 +47,11 @@
       <td align="center">
         <h3>QA(Automation/Manual) & other</h3>
         <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=selenium,yarn,npm " />
+          <img src="https://skillicons.dev/icons?i=selenium,yarn,npm" />
         </a>
       </td>
     </tr>
   </table>
 </div>
-
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer"/>
