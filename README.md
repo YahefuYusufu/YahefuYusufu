@@ -5,53 +5,65 @@
 ![](http://profile-counter.glitch.me/YusupYakup/count.svg)
 
 <div align="center"> 
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+</div>
   
-![waving](https://capsule-render.vercel.app/api?type=waving&height=90&color=gradient)
+![waving](https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&text=Welcome%20to%20My%20Profile&fontSize=24&fontColor=fff&animation=fadeIn)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mouse+Memoirs&size=65&pause=1050&duration=500&color=06CD9C&vCenter=true&width=800&height=70&lines=Hi!;I'm+a+Software+Developer;Focus+on+Full+Stack+Mobile+Application)](https://git.io/typing-svg)
-
-<img align='center' height='160' style="margin-right:20px" src='assets/zeig-infotech-seo-gif.gif' alt='Social Networks'>
-  
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=06CD9C&center=true&vCenter=true&width=600&lines=Hi+there!+👋;I'm+a+Full+Stack+Developer;Mobile+App+Development+Expert;React+Native+%7C+Flutter+%7C+Native;Building+Amazing+User+Experiences" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <h3>Frontend Development</h3>
-        <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vite,tailwind" />
-        </a>
-      </td>
-      <td align="center">
-        <h3>Mobile Development</h3>
-        <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=react,swift,kotlin" />
-        </a>
-      </td>
-    </tr>
-  </table>
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
 </div>
 
-<br>
+
+
+## 🚀 About Me
+```javascript
+const developer = {
+    name: "prg",
+    role: "Full Stack Mobile App Developer",
+    currentFocus: "Building Full Stack scalable mobile applications",
+    lifePhilosophy: "Code with passion, debug with patience"
+};
+```
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <h3>Back End Development</h3>
-        <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=nodejs,express,graphql,sqlite,firebase,postman" />
-        </a>
-      </td>
-      <td align="center">
-        <h3>QA(Automation/Manual) & other</h3>
-        <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=selenium,yarn,npm" />
-        </a>
-      </td>
-    </tr>
-  </table>
+
+## 💻 Tech Stack
+
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100"><img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
+
+### 📱 Mobile Development
+<div style="display: flex; justify-content: center; gap: 10px; margin: 20px 0;">
+  <img src="https://skillicons.dev/icons?i=react,flutter,swift,kotlin,dart&theme=dark" />
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer"/>
+### 🎨 Frontend Development  
+<div style="display: flex; justify-content: center; gap: 10px; margin: 20px 0;">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vite,tailwind&theme=dark" />
+</div>
+
+### ⚙️ Backend Development
+<div style="display: flex; justify-content: center; gap: 10px; margin: 20px 0;">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,graphql,mongodb,sqlite,firebase,postman&theme=dark" />
+</div>
+
+### 🔧 Tools & QA
+<div style="display: flex; justify-content: center; gap: 10px; margin: 20px 0;">
+  <img src="https://skillicons.dev/icons?i=selenium,jest,git,github,vscode,figma&theme=dark" />
+</div>
+
+</div>
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+</div>
+
+
+
+---
+
+![footer](https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&animation=fadeIn)
