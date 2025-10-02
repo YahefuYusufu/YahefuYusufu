@@ -11,13 +11,6 @@
   
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&text=Welcome%20to%20My%20Profile&fontSize=24&fontColor=fff&animation=fadeIn)
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=06CD9C&center=true&vCenter=true&width=680&lines=Hi%2C+I+am+a+software+developer;Full-stack+%26+Backend+Engineer;Web+%7C+Mobile+%7C+APIs;React+Native+%7C+Flutter+%7C+Node.js;Building+Amazing+User+Experiences" alt="Typing SVG" />
-
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
-</div>
-
 
 
 
